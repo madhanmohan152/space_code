@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Apple Inc. Common Stock",
+        "current": 122.49,
+        "diffValue": "+$0.06",
+        "diff": "0.06",
+        "per": "0.05"
+    },
+    {
+        "name": "Facebook, Inc. Class A Common Stock",
+        "current": 273.58,
+        "diffValue": "-$0.95",
+        "diff": "-0.95",
+        "per": "-0.35"
+    }
+   
+]
